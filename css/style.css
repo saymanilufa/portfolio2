@@ -1,0 +1,41 @@
+body{
+    padding:0;
+    margin:0;
+}
+nav{
+    background-color: brown;
+    overflow:hidden;
+}
+
+.saymalogo{
+    height: 30px;
+    float:left;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 50%;
+}
+
+ul{
+    list-style: none;
+    margin-right: 10px;
+    float:right;
+    
+}
+li{
+    display: inline-block;
+    margin-right: 10px;
+}
+.coverphoto{
+    width: 100%;
+    height:auto;
+   
+}
+h2{
+    text-align: center;
+}
+.AboutMe{
+    text-align: center;
+    width:80%;
+    margin: 5%;
+
+}
