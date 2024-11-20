@@ -56,3 +56,21 @@ h2{
     text-align: center;
     overflow: hidden;
 }
+
+.portfolioMainDiv{
+    width:90%;
+    margin-left: 5%;
+}
+
+.portfolioDiv{
+    width:31%;
+    float:left;
+    overflow:hidden;
+    padding: 10px;
+    
+}
+
+.portfolioDiv img{
+    width:100%;
+    
+}
